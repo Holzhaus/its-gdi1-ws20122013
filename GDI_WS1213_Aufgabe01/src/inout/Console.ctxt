@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=String\ readString()
+comment0.text=Liest\ eine\ Zeile\ von\ der\ Konsole\n@return\ eingelesene\ Zeile\ vom\ Typ\ String\n\n
+comment1.target=char[]\ readCharArray()
+comment1.text=Liest\ eine\ Zeile\ von\ der\ Konsole\n@return\ eingelesene\ Zeile\ vom\ Typ\ char[]\n\n
+comment2.target=boolean\ readBoolean()
+comment2.text=Liest\ einen\ booleschen\ Wert\ von\ der\ Konsole\n@return\ boolescher\ Wert\ true\ oder\ false\n\n
+comment3.target=int\ readInt()
+comment3.text=Liest\ eine\ ganze\ Zahl\ vom\ Typ\ int\ von\ der\ Konsole\n@return\ ganze\ Zahl\ vom\ Typ\ int\n\n
+comment4.target=long\ readLong()
+comment4.text=Liest\ eine\ ganze\ Zahl\ vom\ Typ\ long\ von\ der\ Konsole\n@return\ ganze\ Zahl\ vom\ Typ\ long\n\n
+comment5.target=float\ readFloatPoint()
+comment5.text=Liest\ eine\ Gleitpunktzahl\ vom\ Typ\ float\ von\ der\ Konsole\nEnglische\ Notation\:\ Trennung\ der\ \nNachkommastellen\ durch\ Punkt\n@return\ Gleitpunktzahl\ vom\ Typ\ float\n\n
+comment6.target=float\ readFloatComma()
+comment6.text=Liest\ eine\ Gleitpunktzahl\ vom\ Typ\ float\ von\ der\ Konsole\nDeutsche\ Notation\:\ Trennung\ der\ \nNachkommastellen\ durch\ Komma\n@return\ Gleitpunktzahl\ vom\ Typ\ float\n\n
+comment7.target=double\ readDoublePoint()
+comment7.text=Liest\ eine\ Gleitpunktzahl\ vom\ Typ\ double\ von\ der\ Konsole\nEnglische\ Notation\:\ Trennung\ der\ \nNachkommastellen\ durch\ Punkt\n@return\ Gleitpunktzahl\ vom\ Typ\ double\n\n
+comment8.target=double\ readDoubleComma()
+comment8.text=Liest\ eine\ Gleitpunktzahl\ vom\ Typ\ double\ von\ der\ Konsole\nDeutsche\ Notation\:\ Trennung\ der\ \nNachkommastellen\ durch\ Komma\n@return\ Gleitpunktzahl\ vom\ Typ\ double\n\n
+comment9.target=char\ readChar()
+comment9.text=Liest\ ein\ Zeichen\ vom\ Typ\ char\ von\ der\ Konsole\n@return\ erstes\ eingegebene\ Zeichen\ vom\ Typ\ char\n\n
+numComments=10

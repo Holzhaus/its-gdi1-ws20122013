@@ -1,0 +1,22 @@
+Aus einem Pflichtenheft ein Klassendiagramm in UML-Notation erstellen und dieses Diagramm anschließend in ein Java-Programm transformieren und um Operationsanweisungen ergänzen können.
+Aufgabenstellung
+Die Firma WebSoft entschließt sich, Softwareprodukte im Markt anzubieten. Dafür soll eine Artikelverwaltung programmiert werden. Die Anforderungen an das Programm sind in folgendem Pflichtenheft zusammengestellt:
+/1/ Artikelnummer, Artikelbezeichnung, die verwendete Programmiersprache, eine Kurzbeschreibung und der Verkaufspreis eines jeden Artikels sollen gespeichert werden.
+/2/ Alle Daten müssen einzeln gelesen und gespeichert werden können.
+/3/ Der Verkaufspreis ist mit 0 vorbelegt, die Programmiersprache mit »Java«.
+
+Bis heute werden die Artikel »von Hand« in einer Tabelle erfasst:
+Tab. 1
+Artikelnr	Bezeichnung	Sprache	Beschreibung	Verkaufspreis
+4711	Diashow	Java	Dia-Show auf HTML-Seite	29,90
+4712	Bildbeschriftung	Java	Erlaubt Beschriftung von Bildern	99,90
+8726	100 Piktos	Java	100 Piktogramme für HTML-Seite	54,50
+
+
+a Entwerfen Sie ein Klassendiagramm in UML-Notation, das die im Pflichtenheft gemachten Angaben in Form einer Klasse modelliert. Verwenden Sie die UML-Notation. Notwendige get- und set-Operationen sind einzutragen. Bei Attributen ist immer ein passender Typ, eventuell mit Voreinstellung, anzugeben. (maximale Punktzahl: 25 Punkte)
+
+b Zeichnen Sie die in der Tabelle angegebenen Artikel als Objekte in ein UML-Objektdiagramm ein. (maximale Punktzahl: 30 Punkte)
+
+c Transformieren Sie das Klassendiagramm in eine Java-Klasse und ergänzen Sie die Operationsrümpfe entsprechend. (maximale Punktzahl: 30 Punkte)
+
+d Ergänzen Sie das Programm um eine UI-Klasse, die die drei Artikel mit den Werten aus der Tabelle erzeugt und diese anschließend in tabellarischer Form anzeigt. (maximale Punktzahl: 15 Punkte)

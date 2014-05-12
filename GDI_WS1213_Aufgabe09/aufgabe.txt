@@ -1,0 +1,46 @@
+Die Firma WebSoft erhält von einem Sportverein den Auftrag, eine Vereinsverwaltung zu
+entwickeln. Stellen Sie sich vor, Sie sind Frau Sonnenschein, die Systemanalytikerin der
+Firma WebSoft, und interviewen den Vorsitzenden des Sportvereins, Herrn Kraft.
+Frau Sonnenschein (Sie): »Welche Aufgaben sollen mit dem neuen Programm abgewickelt
+werden?«
+Herr Kraft: »Am wichtigsten ist für uns die Verwaltung der Vereins- und Mitgliedsdaten.«
+Frau Sonnenschein (Sie): »Können Sie mir mal an einem Ihrer Mitglieder erläutern, welche
+Daten Sie über ein Mitglied für die Vereinsverwaltung benötigen.«
+Herr Kraft: »Der Herr Schnell hat die Mitgliedsnummer 4268, wohnt in Bochum,
+Nordoststr. 24 und hat die Telefonnummer 0234/82398. Er ist ein aktives Mitglied, das
+am 1.4.2001 sein 25 jähriges Vereinsjubliläum feiern konnte. Er wurde am 28.3.1963 in
+Dortmund geboren. Seine Mitgliedsbeiträge werden von seinem Bankkonto 82395 bei der
+Stadtsparkasse Bochum (BLZ 4506083) abgebucht. «
+Frau Sonnenschein (Sie): »Und welche Daten werden für Ihren Verein benötigt?«
+Herr Kraft: Unser Sportverein Immer vorne hat seinen Vereinssitz in Bochum, Kneippstr. 25
+und die Telefonnummer 0234/87454. Unsere Bankverbindung lautet: Kontonummer 9007234 mit
+der BLZ 4506083.
+
+a) Zeichnen Sie anhand der Informationen aus dem Interview die entsprechenden Objekte in korrekter UML-Notation. Zeichnen Sie zusätzlich ein Objekt, das Ihre Daten enthält, wenn Sie Mitglied in dem Verein wären.
+Beachten Sie bitte den Hinweis zu Zeichnungen am Ende dieser Aufgabe. (max. 60 Punkte)
+
+b) Modellieren Sie nun die entsprechenden Klassen mit ihren Attributen.(max. 40 Punkte). 
+Hinweis zu Zeichnungen: Sie können die UML-Modelle per Hand oder mit einem Grafikprogramm (GO oder anderes UML-Werkzeug) zeichnen. Im ersten Fall scannen Sie die Handzeichnung bitte ein, im zweiten Fall machen Sie bitte einen Bildschirmabzug und laden das Ergebnis als gif-Datei auf den Server. Ihre Datei muss außerdem Ihren Namen und das Erstellungdatum enthalten.
+
+Verein
+- Name
+- Ort (Vereinsitz)
+- Straße
+- Hausnummer
+- Telefonnummer
+- Kontonummer
+- BLZ
+
+Mitglied
+- Mitgliedsnummer
+- Aktiv?
+- Beitrittsdatum
+- Name
+- Wohnort
+- Straße
+- Hausnummer
+- Telefonnummer
+- Geburtsort
+- Geburtsdatum
+- Kontonummer
+- BLZ
